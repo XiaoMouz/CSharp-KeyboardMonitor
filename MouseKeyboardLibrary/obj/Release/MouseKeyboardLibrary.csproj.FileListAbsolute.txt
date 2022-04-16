@@ -1,0 +1,6 @@
+E:\Work\VS WORK\MouseKeyboardHook\MouseKeyboardHook\source\MouseKeyboardLibrary\bin\Release\MouseKeyboardLibrary.dll
+E:\Work\VS WORK\MouseKeyboardHook\MouseKeyboardHook\source\MouseKeyboardLibrary\bin\Release\MouseKeyboardLibrary.pdb
+E:\Work\VS WORK\MouseKeyboardHook\MouseKeyboardHook\source\MouseKeyboardLibrary\obj\Release\MouseKeyboardLibrary.csproj.AssemblyReference.cache
+E:\Work\VS WORK\MouseKeyboardHook\MouseKeyboardHook\source\MouseKeyboardLibrary\obj\Release\MouseKeyboardLibrary.csproj.CoreCompileInputs.cache
+E:\Work\VS WORK\MouseKeyboardHook\MouseKeyboardHook\source\MouseKeyboardLibrary\obj\Release\MouseKeyboardLibrary.dll
+E:\Work\VS WORK\MouseKeyboardHook\MouseKeyboardHook\source\MouseKeyboardLibrary\obj\Release\MouseKeyboardLibrary.pdb
